@@ -45,6 +45,10 @@ Nhân vật chính: Kais
         - Kais và những người khác phải đưa ra một quyết định khó khăn: tuân theo những quy tắc của trò chơi và tiếp tục sống trong thế giới ảo này, hoặc từ bỏ và chấp nhận bị xóa bỏ. 1p
         - Kais cố đàm phán với Khánh và Quân:
             + Cố gắng tìm hiểu liệu tham gia vào trò chơi có thể giúp họ tìm ra cách thoát khỏi thế giới ảo này hay không ? khánh và Quân nói có thể nhưng với điều kiện phải đánh bại 3 chúa tể trong trò chơi
-
-
+            + hỏi về kĩ năng và vũ khí mà họ sẽ được trang bị nếu tham gia vào trò chơi, Khánh và Quân nói rằng họ sẽ được trang bị những kĩ năng và vũ khí mạnh mẽ nhất trong trò chơi, nhưng cũng sẽ phải đối mặt với những thử thách nguy hiểm nhất. 20s
+            + hỏi về khả năng tồn tại của họ trong trò chơi, Khánh và Quân nói mỗi người có thể hồi sinh 3 lần, nhưng sau đó sẽ bị xóa bỏ vĩnh viễn. 20s
+            + hỏi về mục đích cuối cùng của trò chơi, Khánh và Quân nói mục đích cuối cùng là để tìm ra người chiến thắng, người chiến thắng sẽ được tự do thoát khỏi thế giới ảo này và trở lại thực tại, nhưng nếu không có người chiến thắng nào được tìm ra trong vòng 1 năm, tất cả sẽ bị xóa bỏ. 20s
+        - Cuối cùng, Kais và những người khác quyết định tham gia vào trò chơi,
+        họ biết rằng đây là một quyết định nguy hiểm, nhưng họ cũng không có lựa chọn nào khác nếu muốn sống tiếp. 20s
+    --------
 ]
