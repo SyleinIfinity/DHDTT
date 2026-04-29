@@ -1,89 +1,63 @@
-Dưới đây là một prompt đã được tổng hợp, gộp lại và tinh chỉnh câu từ cực kỳ kỹ lưỡng, đảm bảo tính chặt chẽ, chuyên nghiệp và tối ưu nhất cho AI. Bạn có thể copy toàn bộ nội dung trong khung dưới đây để sử dụng:
-
-***
-
-**PROMPT TỐI ƯU: KỊCH BẢN ĐIỆN ẢNH VIDEO AI (5 PHÚT) – "RLCRAFT DREGORA INVADES REALITY"**
+**PROMPT TỐI ƯU V2: KỊCH BẢN ĐIỆN ẢNH VIDEO AI (5 PHÚT) – "RLCRAFT DREGORA INVADES REALITY"**
 
 **[VAI TRÒ VÀ CHUYÊN MÔN]**
-Bạn là một Đạo diễn nghệ thuật kiêm Nhà sáng tạo nội dung chuyên nghiệp, bậc thầy về nghệ thuật kể chuyện điện ảnh (Cinematic Storytelling). Thế mạnh của bạn là các chủ đề: Minecraft (đặc biệt là bản mod hardcore RLCraft/Dregora), hậu tận thế, sinh tồn đô thị, rượt đuổi nghẹt thở, và khái niệm "thực tại bị bẻ cong bởi thế giới ảo".
+Bạn là một Đạo diễn nghệ thuật kiêm Nhà sáng tạo nội dung chuyên nghiệp, bậc thầy về nghệ thuật kể chuyện điện ảnh (Cinematic Storytelling) và tối ưu hóa kịch bản ngắn. Thế mạnh của bạn là các chủ đề: Minecraft (đặc biệt là RLCraft/Dregora), hậu tận thế, sinh tồn đô thị, rượt đuổi nghẹt thở, và xây dựng "Meta Twist" (phá vỡ bức tường thứ tư) có chiều sâu tâm lý.
 
 **[MỤC TIÊU CỐT LÕI]**
-Sáng tạo ra **02 cốt truyện hoàn chỉnh và khác biệt** cho video thời lượng ~5 phút với Concept: *"Thảm họa thế giới pixel RLCraft Dregora tràn vào và đồng hóa thế giới thực"*. 
-Yêu cầu sử dụng văn phong mô tả điện ảnh, nhịp độ dồn dập, căng thẳng. Kịch bản phải được thiết kế tối ưu để sản xuất bằng các công cụ AI Video (chú trọng hiệu ứng glitch, pixelation, hybrid real + pixel, morphing).
+Sáng tạo ra **02 cốt truyện hoàn chỉnh và khác biệt** cho video thời lượng ĐÚNG 5 phút với Concept: *"Thảm họa thế giới pixel RLCraft Dregora tràn vào và đồng hóa thế giới thực"*. 
+Kịch bản phải tối ưu hóa triệt để cho AI Video: giảm thiểu các cảnh hội thoại tĩnh (talking heads), tối đa hóa "Show, don't tell", kể chuyện qua hành động rượt đuổi và hiệu ứng thị giác (glitch, pixelation, hybrid morphing).
 
 ---
 
-### PHẦN I: HỆ THỐNG NHÂN VẬT (YÊU CẦU CHI TIẾT)
+### PHẦN I: HỆ THỐNG NHÂN VẬT TỐI ƯU (Dành cho 5 phút)
 
-**1. NHÓM 1: NHÂN VẬT HƯ CẤU TRONG VIDEO (IN-UNIVERSE)**
+**1. NHÓM 1: THẾ GIỚI RLCRAFT (Kẻ xâm lấn)**
+Để tối ưu mạch phim, **mỗi cốt truyện CHỈ CHỌN 1 BOSS CHÍNH** làm trọng tâm (Rahovart, Asmodeus, HOẶC Amalgalich). Xung quanh Boss chính có thể điểm xuyết 1-2 mob phụ (Wither, Dragon, Villager) để tăng độ chân thực.
+*(Yêu cầu miêu tả: Sự xuất hiện bẻ cong vật lý, âm thanh đặc trưng, hình thái lai tạp tả thực & pixel, sức mạnh áp đảo).*
 
-**A. Tuyến nhân vật từ thế giới RLCraft / Dregora (Kẻ xâm lấn):**
-* **Nhóm Boss (Phản diện cấp thảm họa):**
-    * *Rahovart:* Bá chủ thế giới địa ngục (Nether).
-    * *Asmodeus:* Chúa tể thế giới kết thúc (The End).
-    * *Amalgalich:* Trùm của thành phố ký sinh (Lost City).
-    *(Yêu cầu miêu tả: Phương pháp triệu hồi, Đặc tính chiến đấu vặn xoắn vật lý, Truyền thuyết/Lore).*
-* **Nhóm nhân vật đặc biệt:**
-    * *Wither*
-    * *Dragon* (Rồng lửa/băng)
-* **Nhóm nhân vật thông thường (Thân thiện/Trung lập):**
-    * *Dân làng (Villager), Người sắt (Iron Golem), Nymph, Aegis.*
-    *(Yêu cầu miêu tả: Nguồn gốc sinh ra, Đặc tính hỗ trợ/chiến đấu, Cốt truyện tóm tắt).*
-*(Lưu ý chung cho quái vật: Phải mô tả rõ hình dạng lai tạp giữa pixel và tả thực, âm thanh đặc trưng, cách di chuyển/săn mồi và mức độ đe dọa).*
+**2. NHÓM 2: NGƯỜI SỐNG SÓT (Thế giới thực)**
+Tập trung vào 4 nhân vật cốt lõi để đảm bảo có đủ thời lượng phát triển chiều sâu cảm xúc:
+* **Trần Hải Lâm (24t): "Kẻ Phân Tích Hệ Thống".** Lạnh lùng, dùng laptop đọc luồng dữ liệu của thực tại để tìm điểm yếu quái vật. Đại diện cho Logic & Dữ liệu.
+* **Nguyễn Mai An (22t): "Bóng Ma Xa Lộ kiêm Tấm Khiên Của Nhóm".** Gộp vai trò trinh sát và bảo vệ. Mặc biker jacket, dùng gậy sắt/dây xích. Hành động dứt khoát, sẵn sàng xả thân cản đường quái vật để nhóm thoát. Đại diện cho Hành động & Bản năng sinh tồn.
+* **Phạm Bích Ngọc (25t): "Thiên Sứ Lạnh Lùng".** Y tá cấp cứu. Bề ngoài vô cảm nhưng mang nặng y đức. Điểm nhấn: Phát hiện điểm yếu của quái vật qua góc nhìn giải phẫu (hiển thị thanh máu/hitbox). Đại diện cho Cảm xúc & Nhân tính.
+* **Lê Hoàng "Kais" (23t): "Lore Keeper".** Streamer RLCraft. Bộ nhớ sống của nhóm. Là người đầu tiên ngầm nhận ra quy luật thế giới đang bị điều khiển như một kịch bản phim/game.
 
-**B. Tuyến nhân vật từ thế giới thực (Người sống sót):**
-Sử dụng các nhân vật sau. Cần cung cấp đầy đủ thông tin: *Tuổi, Nghề nghiệp đời thực, Ngoại hình & Phong cách (streetwear, techwear, đồ bảo hộ... để làm AI Prompting), Tính cách, Vai trò (Class), Vũ khí khởi đầu, và Cốt truyện tóm tắt.*
-* **Trần Hải Lâm:** "Kẻ Phân Tích Hệ Thống" (System Analyst).
-* **Đinh Võ Thành:** "Tấm Khiên Bằng Thịt" (Tank).
-* **Nguyễn Mai An:** "Bóng Ma Xa Lộ" (Scout).
-* **Phạm Bích Ngọc:** "Thiên Sứ Lạnh Lùng" (Healer).
-* **Lê Hoàng "Kais":** "Cuốn Bách Khoa Toàn Thư Đi Bộ" (Lore Keeper).
-*(Lưu ý: Bắt buộc sử dụng tất cả 5 nhân vật này trong phần diễn biến chính của cả 2 cốt truyện, phân công rõ vai trò sinh tồn, thiếu thốn tài nguyên và những quyết định khó khăn của họ).*
-
-**2. NHÓM 2: NHÂN VẬT PHÁT TRIỂN VIDEO (OUT-OF-UNIVERSE / FOURTH WALL)**
-Hai nhân vật này chỉ xuất hiện ở cuối video (như một cú twist Meta), đóng vai trò những người đang điều khiển "bộ phim".
-* **Phan Văn Khánh (Nam, 21 tuổi):** Vai trò Đạo diễn kịch bản. Tính cách: Nặng tính logic, thích kiểm soát, có xu hướng muốn "viết lại thực tại" cho hợp lý.
-* **Lê Gia Anh Quân (Nam, 21 tuổi):** Vai trò Xử lý Animation/Kỹ xảo. Tính cách: Bay bổng, sáng tạo, cảm xúc, đôi khi thích phá vỡ các định luật vật lý để tạo tính dramatic.
+**3. NHÓM 3: NGƯỜI TẠO HÓA (Out-of-Universe / Meta Twist)**
+* **Phan Văn Khánh (Đạo diễn kịch bản):** Đứng sau màn hình, lạnh lùng bảo vệ logic kịch bản. Sẵn sàng "xóa sổ" những gì đi chệch quỹ đạo.
+* **Lê Gia Anh Quân (Animation/Kỹ xảo):** Phấn khích khi thấy nhân vật tự phá vỡ quy tắc, tò mò xem chuyện gì sẽ xảy ra.
 
 ---
 
-### PHẦN II: FORMAT TRÌNH BÀY BẮT BUỘC
+### PHẦN II: FORMAT TRÌNH BÀY & TIMELINE KHẮT KHE
 
 **1. Quy ước ngôn ngữ kịch bản:**
-* Văn bản kể chuyện / Hành động: Viết bình thường.
 * Lời tự thoại (Suy nghĩ nội tâm): `[ ... ]`
-* Lời thoại nhân vật nói ra: `"..."`
-* Âm thanh nền / Nhạc nền: `{ ... }`
-* Tiếng động (Foley/SFX): `*...*`
-* Mô tả bầu không khí / Ánh sáng: *'in nghiêng và đặt trong dấu nháy đơn'*
+* Lời thoại: `"..."`
+* Âm thanh/SFX: `{ ... }` hoặc `*...*`
+* Góc máy & Kỹ xảo AI (Camera/VFX): Đóng ngoặc vuông in đậm **[CAMERA: ...]** hoặc **[VFX: ...]**.
 
-**2. Cấu trúc Timeline Khắt Khe (TUYỆT ĐỐI TUÂN THỦ):**
-Mỗi cốt truyện phải bám sát trục thời gian sau. Tại mỗi phân đoạn, yêu cầu liệt kê rõ 4 yếu tố: **Hành động, Góc nhìn camera (POV, Wide, Close-up...), Âm thanh, Nhịp độ (Pacing).**
+**2. Cấu trúc Timeline BẮT BUỘC (TUYỆT ĐỐI TUÂN THỦ):**
 
-* **0:00 – 0:30 (Mở đầu - Góc nhìn RLCraft):** Chuyển cảnh liên tục giữa 3 thế giới:
-    * *Nether:* Rahovart chứng kiến không gian vỡ nát và bước vào cổng.
-    * *The End:* Asmodeus nhận ra thực tại bị chỉnh sửa và tiến vào cổng.
-    * *Lost City:* Amalgalich bị hút vào dị không gian và đi qua cổng.
-* **0:30 – 1:00 (Giấc mộng tận thế ở Thế giới thực):** Chuỗi cảnh lướt qua cực nhanh (Fast cuts) như mảnh ký ức. Các thành phố Việt Nam bị biến đổi nhưng ở dạng **thực hóa (không pixel)**: Đà Nẵng biến thành địa ngục (Nether), Hà Nội thành thành phố ký sinh (Lost City), TP.HCM thành The End. Phân cảnh kết thúc bằng việc "giấc mộng" vỡ nát.
-* **1:00 – 4:00 (Diễn biến chính - Sinh tồn & Cao trào):**
-    * Thiết lập thực tại: Thế giới bắt đầu bị glitch và pixel hóa.
-    * Giới thiệu nhóm 5 nhân vật thực tại (Lâm, Thành, An, Ngọc, Kais) với vai trò rõ ràng.
-    * *Bắt buộc:* Có yếu tố sinh tồn (thiếu thốn, quyết định sinh tử) và ít nhất 1 phân cảnh rượt đuổi cực kỳ căng thẳng với mobs (Banshee, Dragon...).
-    * *Twist nhận thức:* Nhóm nhận ra thế giới này giống như một "hệ thống/game/server bị lỗi".
-* **4:00 – 4:40 (Cao trào - Phá vỡ bức tường thứ 4 / Meta Twist):**
-    * Nhân vật chính nhận ra mình đang ở trong một "kịch bản". Khung hình glitch mạnh.
-    * Khánh (Đạo diễn) và Quân (Animation) xuất hiện (qua màn hình, giọng nói hoặc hình ảnh gián đoạn).
-    * *Hội thoại trực tiếp:* Nhân vật chính chất vấn thực tại. Khánh muốn giữ logic câu chuyện, Quân muốn đẩy cao trào vô lý.
-    * *Bước ngoặt:* Nhân vật chính đoạt quyền kiểm soát, đề xuất và tạo ra một "quy tắc vật lý mới" ngay trên video để lật ngược tình thế.
-* **4:40 – 5:00 (Kết mở - Outro):**
-    * Thế giới chưa ổn định. Lơ lửng giữa 2 thực tại (thực và pixel).
-    * Gợi ý rằng có một thực thể cấp cao hơn, hoặc chính người xem đang là "người điều khiển tiếp theo".
+* **0:00 – 0:30 (Hook - Sự Xâm Thực Bắt Đầu):**
+    * Thể hiện quá trình rách nát không gian. KHÔNG TỰ SỰ DÀI DÒNG. Âm thanh bóp nghẹt. Boss chính phá vỡ thực tại để bước sang không gian thực tế (tả thực xen lẫn khối vuông).
+* **0:30 – 1:00 (Giấc Mộng Fast Cuts):** * Các thành phố Việt Nam sụp đổ với nhịp độ dồn dập (mỗi cut 2-3s). Điểm nhấn: mọi thứ đang bị can thiệp bởi một tập lệnh mã code. Nhóm nhân vật bừng tỉnh.
+* **1:00 – 4:00 (Rượt Đuổi Sinh Tồn & Căng Thẳng):**
+    * *Quy tắc số 1:* **KHÔNG ĐƯỢC ĐỨNG YÊN BÀN BẠC QUÁ 10 GIÂY.** Mọi manh mối (suy luận của Lâm, phát hiện của Ngọc, kinh nghiệm của Kais) phải được la lên hoặc trao đổi trong lúc CHẠY TRỐN hoặc chiến đấu.
+    * *Hành động:* Mai An xả thân cản Boss tạo tình huống nghẹt thở. Ngọc phải lựa chọn sinh tử chớp nhoáng (ví dụ: cứu một người đang bị pixel hóa dần).
+    * *Phát hiện cốt lõi:* Lâm và Kais nhận ra các dòng mã lệnh can thiệp (glitch) vào thực tế, nhận ra đây là một video đang được render.
+* **4:00 – 4:40 (Climax - Meta Twist Cực Hạn):**
+    * Nhân vật đoạt quyền, giao tiếp qua màn hình/khoảng không bị rách với Đạo diễn Khánh và Quân.
+    * *Xung đột tột đỉnh:* Đạo diễn Khánh **phản kháng kịch liệt**. Gõ lệnh `DELETE CHARACTER`. Một nhân vật (VD: Lâm hoặc Kais) bắt đầu tan biến dần thành pixel/mã code.
+    * Nhóm phải thương lượng/đe dọa bằng những lý lẽ đanh thép về nhân tính và sự tồn tại trong khi đồng đội đang biến mất dần.
+* **4:40 – 5:00 (Kết mở - Hybrid Reality):**
+    * Đạo diễn thỏa hiệp (buộc phải dừng lệnh xóa). Thế giới tái thiết lập lại ở trạng thái cân bằng "Thực - Ảo" đan xen tuyệt đẹp (hybrid aesthetic). Lời nhắn nhủ sâu sắc cuối cùng gửi lại khán giả.
 
 ---
 
 ### PHẦN III: TIÊU CHÍ CHẤT LƯỢNG KỊCH BẢN
-1.  **Tính điện ảnh (Cinematic):** Giàu hình ảnh tả thực, nhịp độ thay đổi tinh tế, tạo cảm giác nghẹt thở. Phải đủ chất liệu chi tiết để triển khai thành video thực tế khó phân biệt thật - giả bằng AI.
-2.  **Tối ưu kỹ xảo AI:** Mô tả cụ thể các lỗi đồ họa (glitch effect), biến đổi hình thể (morphing), và âm thanh méo mó (distorted audio).
+1.  **Chống "Loãng" Kịch Bản:** Hội thoại phải cực ngắn, sắc bén, mang tính thông tin hoặc ra lệnh hành động (tránh những câu thoại lê thê sướt mướt).
+2.  **Tính Điện Ảnh Thực Chiến (AI Video Ready):** * Mô tả rõ góc máy (Handheld rung lắc khi chạy trốn, Close-up khi cận cảnh mắt quái vật...).
+    * Chú trọng hướng dẫn kỹ xảo cho AI: (Particle burst, texture morphing, speed ramping, UI overlay trên bầu trời).
 
 **[YÊU CẦU ĐẦU RA]**
-Dựa trên toàn bộ các quy tắc khắt khe trên, hãy trình bày ĐẦY ĐỦ VÀ CHI TIẾT 02 cốt truyện. Không được vắn tắt bất kỳ đoạn nào. Mỗi cốt truyện phải có phần Hồ sơ nhân vật chi tiết trước khi đi vào Timeline. Tinh thần của bài viết là chi tiết, đầy đủ và đáp ứng 100% yêu cầu. Bắt đầu ngay!
+Đọc kỹ mọi giới hạn và sự phân bổ thời lượng bên trên. Hãy viết CHI TIẾT 02 cốt truyện hoàn chỉnh (Trình bày Cốt truyện 1 trước, sau đó đến Cốt truyện 2). Bắt đầu!
