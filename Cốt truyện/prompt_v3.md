@@ -216,32 +216,3 @@ Trước khi viết xong, tự kiểm tra:
 Viết kịch bản chi tiết theo đúng timeline và format trên. Ghi chú rõ timestamp
 cho từng cảnh. Ưu tiên VISUAL và ACTION BEAT hơn thoại và nội tâm trong mọi
 trường hợp. Bắt đầu viết ngay — không cần preamble.
-
-
-Bạn ơi, Ở phần cốt truyện video tôi cần phải góp ý điều chỉnh: 
-- Time line sẽ là như này: 
-[
-    Phân cảnh 1: Góc quay ở RLCraft - địa ngục
-    (1) Góc quay ở RLCraft - địa ngục Nội dung: 
-        - Chúa tể Rahovat đang ngự trị chốn này thì tự dưng không gian có dị động. 
-        - Địa ngục đang dần vỡ nát thành hư vô 
-        - Mọi thứ đang bị hư vô hút tất cả lại 
-        - Chúa tể Rahovat nhìn thấy dị tượng, vẽ mặt nghiêm trọng và đứng ra củng cố không gian 
-        - Sau khi không gian vững chắc thì giữa không gian tồn tại 1 động không gian dẫn tới nơi nào đó. 
-        - Chú tể Rahovat nhìn ra gì đó và quyết định tiến vào 
-    (2) Góc quay ở RLCraft - the end: 
-        - Chúa tể Asmodeus .... (tương tự như địa ngục) 
-    (3) Góc máy quay ở RLCraft - Lost city 
-        - Chúa tể Amalgalich .... (tương tự như địa ngục) 
-    -------- 
-    Phân cảnh 2: Giấc mộng hay điềm báo tận thế ? 
-    (1) Cảnh thành phố biến thành địa ngục (những mảnh giấc mộng) 
-        - Có những nơi: 
-            + (ví dụ ở Đà Nẵng) Những tòa nhà cao ốc hóa thành địa hình ở địa ngục của RLCraft, không phải đồ họa pixel, mà chính là địa ngục đã thực tại hóa, từ ảo thành thực 
-            + (ví dụ ở Hà Nội) Những tòa cao ốc, chung cư biến thành mục nát, hoang vắng như ở thành phố kí sinh, đò họa đời thực, ko pixel 
-            + (ví dụ ở Hồ Chí Minh) Quang cảnh biến thành như ở thế giới kết thúc (the end) 
-        - Những khoảng khắc trên xuất hiện lướt qua như mảnh giấc mơ 
-        - Giấc mộng kết thúc bằng hình ảnh giấc mộng vỡ nát -> Mở mắt và kết thúc 
-
-
-]
