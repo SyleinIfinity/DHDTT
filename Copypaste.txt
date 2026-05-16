@@ -1,0 +1,60 @@
+[MASTER CHARACTER LOCK — RAHOVART]
+Massive Nether Sovereign golem. Body: cracked obsidian-black rock exterior with exposed lava veins glowing bright orange-red across entire surface. Chest: deep V-shaped magma channel glowing molten orange-gold at core. Head: demon skull silhouette, hollow glowing ember-red eye sockets (no pupils — only deep red-orange glow), cracked rock fissures instead of mouth. Left arm: oversized cannon-like magma arm formation with pooled lava at tip. Right arm: slightly smaller clawed rock hand. Height: 8-9ft, massively wide shoulders, thick torso, heavy obsidian pillar legs. Lava drips constantly from all surface cracks. Ember sparks float off body at all times. Surface: wet-looking obsidian with cracked glowing seams — NOT smooth, NOT metallic. DO NOT alter this appearance across any keyframe.
+﻿
+[MASTER ENVIRONMENT LOCK — NETHER HELL]
+Ground: cracked black netherrack with flowing magma rivers between jagged rock formations. Background: dark basalt spires rising from ground, floating inverted rock islands in distant sky, vertical lava waterfall columns falling from above, dark smoke-filled atmosphere with orange-red ambient glow, distant dark castle silhouette in background haze, constant ember particles throughout air. Color palette: #FF4500 (neon orange lava), #8B0000 (deep blood red), #1A0A00 (char black), #FF8C00 (molten gold), #2C0A00 (shadow dark). NO cold light. NO blue tones. NO white light. Primary light source: magma glow upward from below (orange-red rim light). Secondary: ambient hell glow (warm dark orange atmosphere overall).
+﻿
+[MASTER STYLE LOCK]
+Cinematic hyperrealistic, Unreal Engine 5 render, volumetric lighting, 4K, photorealistic lava and obsidian texture. NO anime, NO cartoon, NO illustration, NO text, NO watermark, NO UI elements, NO bright daylight. --ar 16:9
+﻿
+---
+﻿
+[KEYFRAME 1 — pc1A_s1_s1 | 0:00–0:01]
+Extreme low angle shot from ankle height looking upward at RAHOVART from directly behind. Camera at ground level tilted 70° upward. FOREGROUND: cracked black netherrack ground with glowing orange-red magma rivers flowing left to right, steam rising from cracks. MIDGROUND: Rahovart's massive obsidian legs and lower torso from behind — cracked black rock surface with vivid molten lava veins running up legs, lava dripping from knee cracks onto ground. BACKGROUND: dark hell atmosphere, jagged basalt spires flanking Rahovart left and right, floating inverted rock islands above Rahovart's head silhouetted against ember-orange hazy sky, dark smoke columns. Rahovart's back and shoulders fill upper 70% of frame — massive V-shaped torso, wide cracked obsidian shoulders, no face visible. Lava seams across back pulse slowly orange. Ember sparks drift upward off entire body. Upward orange rim light from magma below illuminates underside of rock formations.
+﻿
+----
+﻿
+[KEYFRAME 2 — pc1A_s2_s2 | 0:01–0:02]
+Low angle shot at waist height, camera positioned 45° to the right-rear of RAHOVART — orbital sweep in progress. FOREGROUND: cracked netherrack ground at frame bottom right, flowing magma river partially visible. MIDGROUND: Rahovart's right side — massive cracked obsidian arm with exposed lava veins visible, right shoulder and partial chest silhouette emerging into view, back still dominates left portion of frame. Right arm rock surface texture visible — jagged cracked obsidian with glowing orange seams, ember sparks drifting off right shoulder. BACKGROUND: basalt spire formations flanking right side, distant orange-black atmosphere, lava waterfall column in background right. Rahovart's skull head begins to show right profile — cracked obsidian silhouette, ember glow of right eye socket barely visible at frame edge. Upward rim lighting on right arm highlights lava seam texture. Left body still in dark shadow.
+﻿
+----
+﻿
+[KEYFRAME 3 — pc1A_s3_s3 | 0:02–0:03]
+Low angle shot, camera at Rahovart's mid-chest height positioned at perfect 90° right flank — true side profile. FOREGROUND: cracked netherrack ground with glowing fissures at frame bottom, ember sparks at ankle level. MIDGROUND: Full right-side profile of RAHOVART — right eye socket blazing deep red-orange ember glow visible, massive right shoulder with jagged rock protrusions, right arm hanging at side with lava seams, deep chest V-channel glowing molten orange-gold from within, thick obsidian torso, right leg pillar-like. Left cannon arm partially visible behind torso. Lava drips from multiple surface cracks downward. BACKGROUND: hell environment panorama — magma rivers, basalt spires, floating inverted rock islands in distant smoke, dark castle silhouette far background, orange-red volumetric fog throughout. Right side of body lit by ambient hell glow, left side in deep shadow.
+﻿
+----
+﻿
+[KEYFRAME 4 — pc1A_s4_s4 | 0:03–0:04]
+Low-to-mid angle shot, camera now at Rahovart's upper chest height, positioned 135° orbit — front-right three-quarter view, nearly facing RAHOVART's front. FOREGROUND: netherrack ground edge visible at bottom left. MIDGROUND: RAHOVART's front-right body — massive cracked obsidian chest with deep V-shaped magma channel glowing intensely orange-gold at center. Right side of skull-head visible — cracked obsidian skull shape, right eye socket blazing deep red-orange ember glow. Left cannon arm now dominant in left frame — enormous magma cannon formation, glowing pooled lava at arm tip, lava dripping from cannon end. Right regular claw-hand at right. Body lava seams pulse brighter. Ember sparks dense around body. BACKGROUND: hell environment from front angle — magma rivers receding into background, multiple basalt spire formations, lava waterfall columns on left and right background, floating islands above, distant dark castle. Volumetric orange-red fog and smoke. Face half-visible, half in shadow.
+﻿
+----
+﻿
+[KEYFRAME 5 — pc1A_s5_s5 | 0:04–0:05]
+High angle overhead shot looking DOWN at RAHOVART from directly above-front, camera positioned high and slightly forward of Rahovart's head tilting down 30°. FOREGROUND: Top of Rahovart's cracked obsidian skull — demon skull shape, deep fissures with orange-red ember glow in cracks, pure cracked rock texture. Both eye sockets visible looking DIRECTLY UPWARD INTO CAMERA — deep hollow voids blazing with intense red-orange ember fire, confrontational direct stare into lens. MIDGROUND: Rahovart's massive chest below skull — deep V-shaped magma channel glowing brightest gold-orange at center chest, lava seams across entire torso surface. Left cannon arm visible at frame left — massive rock formation with pooled magma. BACKGROUND: hell environment spreading outward from below — cracked netherrack ground with glowing magma rivers forming pattern outward from Rahovart's feet, basalt spires, floating rock islands in distance. Intense ember particles floating upward from body toward camera.
+﻿
+----
+﻿
+[KEYFRAME 6 — pc1A_s6_s6 | 0:05–0:06]
+POV first-person shot FROM RAHOVART'S EYE PERSPECTIVE looking DOWNWARD. Camera positioned as if inside Rahovart's eye socket looking down — slight wide fisheye distortion, chromatic aberration at frame edges. FOREGROUND/CENTER: Looking straight down at massive LAVA LAKE directly below — surface is active molten magma, deep orange-red with darker black cooling crust forming patterns on surface, bright yellow-orange glowing veins across surface, lava bubbles popping, small eruptions. MIDGROUND: Rahovart's own massive cracked obsidian chest partially visible at frame bottom — V-shaped magma channel on chest glowing, cannon arm at frame left partially in view. BACKGROUND: Wider lava lake spreading outward — surrounded by dark netherrack terrain, jagged rock formations rising from lava lake edges, basalt spires, ember particles rising upward from lake toward POV camera. Heat distortion shimmer waves rising throughout frame. Intense upward orange light from lava below. Dark smoke ceiling above.
+﻿
+----
+﻿
+[KEYFRAME 7 — pc1A_s7_s7 | 0:06–0:07]
+POV first-person shot from Rahovart's eye looking DOWN — slight zoom-in compared to previous frame. FOREGROUND/CENTER: Lava lake surface NOW DISTURBED — VORTEX BEGINNING. Center point of lava lake surface glowing intensely bright orange-white (hottest point), from this center CONCENTRIC RIPPLE RINGS expanding outward across lava surface. Lava surface beginning counter-clockwise ROTATION — outer edges of lake starting to spiral inward. Surface lava color: bright vivid orange-yellow at center, deep orange-red moving outward, darker at far edges. Lava bubbles and jets at center point of disturbance. Heat distortion waves intensified — entire frame shimmering. MIDGROUND: Rahovart's chest and cannon arm partially visible at frame edges. BACKGROUND: surrounding netherrack terrain, basalt spires with stronger ember glow from increased energy below. Counter-clockwise spiral rotation clearly initiated across lava surface. Color still predominantly bright magma orange — gate not yet formed.
+﻿
+----
+﻿
+[KEYFRAME 8 — pc1A_s8_s8 | 0:07–0:08]
+POV first-person shot from Rahovart's eye looking DOWN — vortex now FULLY FORMED and COLOR-SHIFTING into red-black. FOREGROUND/CENTER: GATE VORTEX in lava lake — massive counter-clockwise spiral covering 60% of lake surface. CENTER of vortex: deepening into blood red (#8B0000) and black void, gate portal OVAL shape forming at absolute center (dark oval void opening, edges glowing deep crimson). SPIRAL BODY: transitioning from outer bright orange-lava → mid-ring deep red → inner ring near-black with red electrical crackle sparks. Red-black lightning filaments snapping along spiral arms. Lava being pulled INTO center void — downward draining effect visible. BACKGROUND: hell terrain beyond lake partially obscured by rising dark red energy smoke columns from vortex. Frame edges darkening vignette. Outer lava still orange, inner portal deep crimson-black — dual-tone vortex gate fully manifested.
+﻿
+----
+﻿
+[KEYFRAME 9 — pc1A_s9_s9 | 0:08–0:09]
+Overhead bird's eye shot looking STRAIGHT DOWN from high above — external camera, no longer POV. FOREGROUND/CENTER: Massive LAVA LAKE seen from directly above with FULLY FORMED GATE VORTEX at center — enormous counter-clockwise spiral. Gate portal center: deep BLACK oval void, surrounded by dark blood-red rotating energy, red-black lightning crackling at oval edges. Spiral arms: deep crimson-black inner rings, transitioning to dark red, outer ring still orange-lava. Entire vortex diameter takes up 50% of frame. MIDGROUND: RAHOVART seen from directly above — smaller than vortex, positioned at netherrack edge of lake, beginning to step FORWARD toward gate. From above: cracked obsidian skull top visible, massive shoulders, V-chest magma channel visible, cannon arm at left, one foot raised taking first step toward lake edge. BACKGROUND: hell terrain from above — netherrack ground patterns, magma rivers forming web between rock formations, basalt spires. Rahovart approaches the gate.
+﻿
+----
+﻿
+[KEYFRAME 10 — pc1A_s10_s10 | 0:09–0:10]
+Overhead shot descending — tighter frame, camera now closer, looking down at RAHOVART at the moment of STEPPING INTO the gate portal. Camera approximately 40° from true overhead — slight perspective angle. CENTER: RAHOVART — massive cracked obsidian form, one leg MID-DESCEND stepping DOWN into gate portal below. Left cannon arm extended slightly at left, right claw-hand out for balance. Skull head visible from above — cracked texture, eye sockets glowing intensely red-orange upward. FOREGROUND CENTER: GATE VORTEX — dark red-black swirling portal at entry point. Where Rahovart's foot meets gate: BURST of red-black energy crackles outward in ring pattern, dark energy tendrils wrapping around Rahovart's descending leg, lava surface displaced outward in waves. Gate portal center: deep absolute black void, surrounding dark crimson-red spiral energy, red-black lightning at gate rim. Rahovart's lower body beginning to disappear into black void. Frame edges: dark vignette fade beginning. Gate consumes the sovereign.
+﻿
+Aspect ratio - 16:9
